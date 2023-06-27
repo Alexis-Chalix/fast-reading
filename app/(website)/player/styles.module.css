@@ -1,0 +1,47 @@
+.main {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-start;
+	gap: 40px;
+}
+
+.header {
+	position: absolute;
+	top: 20px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.textContainer {
+	position: relative;
+	width: 70%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 700px;
+	margin: 50px 0;
+	border-radius: 7px;
+	box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.1);
+}
+
+.navigation {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+.navigationRange input {
+	width: 100%;
+}
+
+.navigationOptions {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 5px 20px;
+	gap: 8px;
+}

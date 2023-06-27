@@ -1,0 +1,32 @@
+.navbar {
+	position: sticky;
+	top: 0;
+	background-color: white;
+	height: 55px;
+	display: flex;
+	justify-content: space-between;
+	padding: 0 20%;
+	align-items: center;
+	margin: 0 auto;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.10);
+	z-index: 1;
+}
+
+.linksContainer {
+	height: 100%;
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+
+.link {
+	height: 100%;
+	padding: 0 8px;
+	display: flex;
+	align-items: center;
+}
+
+.link:hover {
+	background-color: rgba(0, 0, 0, 0.05);
+	transition: all 0.125s ease-in-out;
+}
