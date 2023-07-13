@@ -122,7 +122,7 @@ export default function Page() {
 	const [wordPerMinute, setWordPerMinute] = useState(600);
 	const [fontSize, setFontSize] = useState(52);
 	const [textColor, setTextColor] = useState('#000000');
-	const [bgColor, setBgColor] = useState('#F5F5F5');
+	const [bgColor, setBgColor] = useState('#FAFAFA');
 	const [fontFamily, setFontFamily] = useState('Arial');
 	const [fontWeight, setFontWeight] = useState('normal');
 
