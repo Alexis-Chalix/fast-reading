@@ -9,5 +9,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="rivieres-du-monde" />
+    <orderEntry type="module" module-name="chat-frontend" />
+    <orderEntry type="module" module-name="quick-quill" />
   </component>
 </module>

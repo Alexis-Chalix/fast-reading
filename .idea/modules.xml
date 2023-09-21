@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../chat-frontend/.idea/chat-frontend.iml" filepath="$PROJECT_DIR$/../chat-frontend/.idea/chat-frontend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/fast-reading.iml" filepath="$PROJECT_DIR$/.idea/fast-reading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quick-quill/.idea/quick-quill.iml" filepath="$PROJECT_DIR$/../quick-quill/.idea/quick-quill.iml" />
       <module fileurl="file://$PROJECT_DIR$/../rivieres-du-monde/.idea/rivieres-du-monde.iml" filepath="$PROJECT_DIR$/../rivieres-du-monde/.idea/rivieres-du-monde.iml" />
     </modules>
   </component>

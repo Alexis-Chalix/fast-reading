@@ -2,6 +2,8 @@ import Link from "next/link";
 import styles from './styles.module.css';
 
 export default function NavBar() {
+
+	// TODO Ajouter compteur
 	return(
 		<header className={styles.navbar}>
 			<h1>Logo</h1>
